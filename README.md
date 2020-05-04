@@ -1,2 +1,0 @@
-# ProjektJajco
-jajco
